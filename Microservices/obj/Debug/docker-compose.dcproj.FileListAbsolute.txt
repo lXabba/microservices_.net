@@ -40,3 +40,17 @@ D:\project\c#\microservices_.net\Microservices\bin\Debug\MongoDB.Libmongocrypt.d
 D:\project\c#\microservices_.net\Microservices\bin\Debug\DnsClient.dll
 D:\project\c#\microservices_.net\Microservices\bin\Debug\SharpCompress.dll
 D:\project\c#\microservices_.net\Microservices\bin\Debug\OrderWebApi.pdb
+D:\project\c#\microservices_.net\Microservices\bin\Debug\ApiGateway.deps.json
+D:\project\c#\microservices_.net\Microservices\bin\Debug\ApiGateway.runtimeconfig.json
+D:\project\c#\microservices_.net\Microservices\bin\Debug\ocelot.json
+D:\project\c#\microservices_.net\Microservices\bin\Debug\ApiGateway.exe
+D:\project\c#\microservices_.net\Microservices\bin\Debug\ApiGateway.dll
+D:\project\c#\microservices_.net\Microservices\bin\Debug\Ocelot.dll
+D:\project\c#\microservices_.net\Microservices\bin\Debug\Newtonsoft.Json.dll
+D:\project\c#\microservices_.net\Microservices\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\project\c#\microservices_.net\Microservices\bin\Debug\FluentValidation.dll
+D:\project\c#\microservices_.net\Microservices\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\project\c#\microservices_.net\Microservices\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\project\c#\microservices_.net\Microservices\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\project\c#\microservices_.net\Microservices\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\project\c#\microservices_.net\Microservices\bin\Debug\ApiGateway.pdb
