@@ -1,0 +1,18 @@
+name: dockercompose15511116055247506388
+services:
+  customerwebapi:
+    build:
+      context: D:\project\c#\microservices_.net\Microservices
+      dockerfile: CustomerWebApi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: customerwebapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose15511116055247506388_default
